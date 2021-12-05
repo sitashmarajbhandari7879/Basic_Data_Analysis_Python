@@ -1,2 +1,3 @@
-# Ufo_Sightings
-Data analysis on ufo sightings using python
+# Data Analysis using Python
+
+Exploring different kinds of dataset using basic Python
